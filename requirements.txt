@@ -1,5 +1,3 @@
-#it's not much ig
-
 tensorflow
 neptune.client
 sklearn
